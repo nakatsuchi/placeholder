@@ -1,0 +1,30 @@
+{
+  "features": [
+    {
+      "name": "",
+      "display_name": "性別",
+      "type": "select",
+      "options": [
+        {"value": "男性"},
+        {"value": "女性"},
+        {"value": "不明"}
+      ]
+    },
+    {
+      "name": "sex",
+      "display_name": "性別",
+      "type": "select",
+      "options": [
+        {"value": "男性"},
+        {"value": "女性"},
+        {"value": "不明"}
+      ]
+    },
+    {
+      "name": "country_name",
+      "display_name": "国名",
+      "type": "text"
+    }
+  ]
+}
+
