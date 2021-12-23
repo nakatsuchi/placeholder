@@ -28,6 +28,12 @@
       "display_name": "国名",
       "type": "text"
     }
-  ]
+  ],
+  "query": {
+    "summary": {
+      "total_users": 10000000,
+      "matched_users": 10000
+    }
+  }
 }
 
