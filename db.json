@@ -1,7 +1,7 @@
 {
   "features": [
     {
-      "name": "",
+      "name": "sex",
       "display_name": "性別",
       "type": "select",
       "options": [
@@ -11,13 +11,16 @@
       ]
     },
     {
-      "name": "sex",
-      "display_name": "性別",
+      "name": "age",
+      "display_name": "年代",
       "type": "select",
       "options": [
-        {"value": "男性"},
-        {"value": "女性"},
-        {"value": "不明"}
+        {"value": "20歳未満"},
+        {"value": "30代"},
+        {"value": "40代"},
+        {"value": "50代"},
+        {"value": "60代"},
+        {"value": "70代以上"}
       ]
     },
     {
